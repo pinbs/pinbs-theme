@@ -1,8 +1,16 @@
 {
     "name": "pinbs-theme",
     "displayName": "pinbs theme",
-    "description": "",
-    "version": "0.0.1",
+    "description": "Color Theme",
+    "version": "1.0.0",
+    "publisher": "pinbs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pinbs/pinbs-theme"
+    },
+    "keywords": [
+        "pinbs"
+    ],
     "engines": {
         "vscode": "^1.46.0"
     },
